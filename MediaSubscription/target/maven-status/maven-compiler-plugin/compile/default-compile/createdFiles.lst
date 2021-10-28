@@ -1,0 +1,10 @@
+com\nevexis\mediaSubscription\App.class
+com\nevexis\mediaSubscription\model\Subscriber.class
+com\nevexis\mediaSubscription\model\MessageSubscriber.class
+com\nevexis\mediaSubscription\model\Message$MessageBuilder.class
+com\nevexis\mediaSubscription\controller\Controller.class
+com\nevexis\mediaSubscription\service\MessageService.class
+com\nevexis\mediaSubscription\SwaggerConfig.class
+com\nevexis\mediaSubscription\model\Message$1.class
+com\nevexis\mediaSubscription\model\Message.class
+com\nevexis\mediaSubscription\model\MessagePublisher.class
