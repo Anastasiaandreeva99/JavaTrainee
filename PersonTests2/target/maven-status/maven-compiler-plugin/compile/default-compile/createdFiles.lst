@@ -1,0 +1,4 @@
+com\nevexis\personqueries\controllers\PersonController.class
+com\nevexis\personqueries\AppConfig.class
+com\nevexis\personqueries\App.class
+com\nevexis\personqueries\services\PersonService.class

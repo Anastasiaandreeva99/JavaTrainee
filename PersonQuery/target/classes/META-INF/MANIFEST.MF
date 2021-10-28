@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Windows
+Build-Jdk: 15.0.1
+Implementation-Title: Spring Boot Blank Project (from https://github.com
+ /making/spring-boot-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.nevexis
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.nevexis.PersonQuery.App
+Created-By: Maven Integration for Eclipse
+

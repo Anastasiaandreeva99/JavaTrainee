@@ -1,0 +1,6 @@
+Controller\PersonController.class
+Model\Person.class
+com\nevexis\PersonQuery\App.class
+Services\PersonService.class
+com\nevexis\PersonQuery\AppConfig.class
+Repositories\PersonRepo.class

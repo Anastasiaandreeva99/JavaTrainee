@@ -1,0 +1,4 @@
+com\nevexis\model\Person.class
+com\nevexis\main\Application.class
+com\nevexis\entities\EntityProcessor.class
+com\nevexis\entities\Json.class

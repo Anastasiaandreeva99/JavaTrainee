@@ -1,0 +1,10 @@
+com\nevexis\personparallel\constants\PersonConstants.class
+com\nevexis\personparallel\model\_MessageFormatFast.class
+com\nevexis\personparallel\model\PersonDTO.class
+com\nevexis\personparallel\model\PP.class
+com\nevexis\personparallel\App.class
+com\nevexis\personparallel\AppConfig.class
+com\nevexis\personparallel\services\PersonService.class
+com\nevexis\personparallel\repositories\PersonRepo.class
+com\nevexis\personparallel\controllers\Controller.class
+com\nevexis\personparallel\model\Person.class

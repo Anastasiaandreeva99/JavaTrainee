@@ -1,0 +1,7 @@
+com\nevexis\personparallel\constants\Status.class
+com\nevexis\personparallel\model\PersonDTO.class
+com\nevexis\personparallel\App.class
+com\nevexis\personparallel\AppConfig.class
+com\nevexis\personparallel\services\PersonService.class
+com\nevexis\personparallel\controllers\MyController.class
+com\nevexis\personparallel\model\Person.class

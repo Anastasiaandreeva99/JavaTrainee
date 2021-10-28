@@ -1,0 +1,5 @@
+com\nevexis\App.class
+com\nevexis\Account.class
+com\nevexis\AppConfig.class
+com\nevexis\HelloController.class
+com\nevexis\Transaction.class
